@@ -1,6 +1,6 @@
 # Blood Bank System - Django Project
 
-![Project Banner](screenshot.png)
+"C:\Users\nadee\OneDrive\Pictures\Screenshots\Screenshot 2025-04-25 181347.png"
 
 ## 📋 Project Description
 Blood Bank System is a web application built using **Django** framework.  

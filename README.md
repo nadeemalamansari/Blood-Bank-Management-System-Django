@@ -1,4 +1,4 @@
-# Blood Bank System - Django Project
+# Blood Bank Management System - Django Project
 
 "C:\Users\nadee\OneDrive\Pictures\Screenshots\Screenshot 2025-04-25 181347.png"
 

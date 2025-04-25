@@ -1,6 +1,6 @@
 # Blood Bank Management System - Django Project
-![Home Screenshot]
-"C:\Users\nadee\OneDrive\Pictures\Screenshots\Screenshot 2025-04-25 181347.png"
+![Screenshot 2025-04-25 181347](https://github.com/user-attachments/assets/2c99a676-cda1-4986-8638-89c02b2e5eeb)
+
 
 ## 📋 Project Description
 Blood Bank System is a web application built using **Django** framework.  
@@ -34,19 +34,15 @@ The system enables:
 
 ## 📸 Screenshots
 ### Admin
-![Home Screenshot]
-"C:\Users\nadee\OneDrive\Pictures\Screenshots\Screenshot 2025-04-25 184409.png"
+![Screenshot 2025-04-25 184409](https://github.com/user-attachments/assets/ed96083e-8643-4f9e-8a97-ec8b3f6ab4a9)
+
 ### 🔹 Home Page
-![Home Screenshot]
-"C:\Users\nadee\OneDrive\Pictures\Screenshots\Screenshot 2025-04-25 181347.png"
+![Screenshot 2025-04-25 184206](https://github.com/user-attachments/assets/eae46d71-2e43-4bea-b80f-8ddaaa25a77f)
+
 
 ### 🔹 Donor Registration
-![Home Screenshot]
-"C:\Users\nadee\OneDrive\Pictures\Screenshots\Screenshot 2025-04-25 184206.png"
+![Screenshot 2025-04-25 184206](https://github.com/user-attachments/assets/30876c67-b2cd-40b4-9c5e-4aca3572df04)
 
-### 🔹 Blood Search Page
-![Home Screenshot]
-"C:\Users\nadee\OneDrive\Pictures\Screenshots\Screenshot 2025-04-25 184206.png"
 
 ---
 

@@ -1,5 +1,5 @@
 # Blood Bank Management System - Django Project
-
+![Home Screenshot]
 "C:\Users\nadee\OneDrive\Pictures\Screenshots\Screenshot 2025-04-25 181347.png"
 
 ## 📋 Project Description
@@ -34,14 +34,18 @@ The system enables:
 
 ## 📸 Screenshots
 ### Admin
+![Home Screenshot]
 "C:\Users\nadee\OneDrive\Pictures\Screenshots\Screenshot 2025-04-25 184409.png"
 ### 🔹 Home Page
+![Home Screenshot]
 "C:\Users\nadee\OneDrive\Pictures\Screenshots\Screenshot 2025-04-25 181347.png"
 
 ### 🔹 Donor Registration
+![Home Screenshot]
 "C:\Users\nadee\OneDrive\Pictures\Screenshots\Screenshot 2025-04-25 184206.png"
 
 ### 🔹 Blood Search Page
+![Home Screenshot]
 "C:\Users\nadee\OneDrive\Pictures\Screenshots\Screenshot 2025-04-25 184206.png"
 
 ---
@@ -49,7 +53,7 @@ The system enables:
 ## 🏗️ How to Run the Project
 1. Clone the repository:
   ## bash
-   git clone https://github.com/your-username/BloodBankSystem-Django.git
+   git clone https://github.com/nadeeemalamansari/BloodBankSystem-Django.git
 ## Navigate to project folder:
 cd BloodBankSystem-Django
 ## bash
